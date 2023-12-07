@@ -1,0 +1,82 @@
+.base {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  width: 335px;
+}
+
+.base .email {
+  color: var(--text-color);
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.base .frame {
+  align-self: stretch;
+  height: 59px;
+  position: relative;
+  width: 100%;
+}
+
+.base .form-field {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--grey-aa-large);
+  border-radius: 4px;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 335px;
+}
+
+.base .div {
+  align-items: center;
+  display: inline-flex;
+  gap: 2px;
+  left: 12px;
+  position: absolute;
+  top: 16px;
+}
+
+.base .input-text {
+  background: transparent;
+  border: none;
+  color: var(--text-color);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.base .cursor {
+  position: relative !important;
+}
+
+.base .icon-outside {
+  background-image: url(../../../static/img/shape-1.svg) !important;
+  left: 347px !important;
+  position: absolute !important;
+  top: 21px !important;
+}
+
+.base .icon-inside {
+  height: 16px !important;
+  left: 307px !important;
+  position: absolute !important;
+  top: 22px !important;
+  width: 16px !important;
+}

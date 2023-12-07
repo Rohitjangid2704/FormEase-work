@@ -1,0 +1,2154 @@
+.arbitration-virtual {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.arbitration-virtual .div-2 {
+  background-color: #ffffff;
+  height: 7618px;
+  position: relative;
+  width: 1606px;
+}
+
+.arbitration-virtual .overlap {
+  height: 118px;
+  left: 180px;
+  position: absolute;
+  top: 5904px;
+  width: 530px;
+}
+
+.arbitration-virtual .input {
+  height: 118px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 530px;
+}
+
+.arbitration-virtual .base-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  top: 17px;
+  width: 530px;
+}
+
+.arbitration-virtual .text-wrapper {
+  color: var(--text-color);
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.arbitration-virtual .frame-2 {
+  align-self: stretch;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--grey-aa-large);
+  border-radius: 4px;
+  height: 59px;
+  position: relative;
+  width: 100%;
+}
+
+.arbitration-virtual .frame-3 {
+  align-items: center;
+  display: inline-flex;
+  gap: 2px;
+  left: 8px;
+  position: absolute;
+  top: 56px;
+}
+
+.arbitration-virtual .input-text-2 {
+  background: transparent;
+  border: none;
+  color: var(--text-color);
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: relative;
+  width: fit-content;
+}
+
+.arbitration-virtual .design-component-instance-node {
+  position: relative !important;
+}
+
+.arbitration-virtual .p {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 186px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5828px;
+  width: 219px;
+}
+
+.arbitration-virtual .text-wrapper-2 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 182px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5758px;
+  width: 219px;
+}
+
+.arbitration-virtual .text-wrapper-3 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 172px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5552px;
+  width: 219px;
+}
+
+.arbitration-virtual .group {
+  height: 33px;
+  left: 132px;
+  position: absolute;
+  top: 5484px;
+  width: 249px;
+}
+
+.arbitration-virtual .icon-chevron-down {
+  height: 16px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 10px !important;
+  width: 16px !important;
+}
+
+.arbitration-virtual .text-wrapper-4 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 300;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.arbitration-virtual .text-wrapper-5 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 182px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4489px;
+  width: 219px;
+}
+
+.arbitration-virtual .text-wrapper-6 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 300;
+  left: 136px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 284px;
+}
+
+.arbitration-virtual .text-wrapper-7 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 144px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 332px;
+}
+
+.arbitration-virtual .base-instance {
+  left: 635px !important;
+  position: absolute !important;
+  top: 380px !important;
+}
+
+.arbitration-virtual .base-3 {
+  font-family: "Open Sans", Helvetica !important;
+  font-weight: 300 !important;
+}
+
+.arbitration-virtual .base-4 {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.arbitration-virtual .base-5 {
+  font-family: "Open Sans", Helvetica !important;
+  font-weight: 300 !important;
+  white-space: unset !important;
+}
+
+.arbitration-virtual .base-6 {
+  left: 1074px !important;
+  position: absolute !important;
+  top: 380px !important;
+}
+
+.arbitration-virtual .base-7 {
+  margin-bottom: -74px !important;
+}
+
+.arbitration-virtual .base-8 {
+  height: 10px !important;
+  left: 196px !important;
+  position: absolute !important;
+  top: 498px !important;
+}
+
+.arbitration-virtual .base-9 {
+  font-family: "Open Sans", Helvetica !important;
+  font-weight: 300 !important;
+  margin-bottom: -8px !important;
+}
+
+.arbitration-virtual .base-10 {
+  left: 196px !important;
+  position: absolute !important;
+  top: 380px !important;
+}
+
+.arbitration-virtual .icon-inside-30 {
+  height: 16px !important;
+  left: 307px !important;
+  position: absolute !important;
+  top: 22px !important;
+  width: 16px !important;
+}
+
+.arbitration-virtual .base-11 {
+  position: relative !important;
+  top: 18px !important;
+}
+
+.arbitration-virtual .base-12 {
+  left: 1074px !important;
+  position: absolute !important;
+  top: 494px !important;
+}
+
+.arbitration-virtual .base-13 {
+  left: unset !important;
+  position: unset !important;
+  top: unset !important;
+}
+
+.arbitration-virtual .base-14 {
+  font-family: "Open Sans", Helvetica !important;
+  font-weight: 300 !important;
+  margin-top: -1px !important;
+  white-space: unset !important;
+}
+
+.arbitration-virtual .base-15 {
+  left: 635px !important;
+  position: absolute !important;
+  top: 496px !important;
+}
+
+.arbitration-virtual .text-wrapper-8 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 445px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 290px;
+}
+
+.arbitration-virtual .icon-chevron-down-4 {
+  height: 16px !important;
+  left: 111px !important;
+  position: absolute !important;
+  top: 295px !important;
+  width: 16px !important;
+}
+
+.arbitration-virtual .group-2 {
+  height: 33px;
+  left: 105px;
+  position: absolute;
+  top: 905px;
+  width: 329px;
+}
+
+.arbitration-virtual .text-wrapper-9 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 300;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.arbitration-virtual .icon-chevron-down-3 {
+  height: 16px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 13px !important;
+  width: 16px !important;
+}
+
+.arbitration-virtual .base-16 {
+  left: 628px !important;
+  position: absolute !important;
+  top: 968px !important;
+}
+
+.arbitration-virtual .base-17 {
+  left: 1067px !important;
+  position: absolute !important;
+  top: 968px !important;
+}
+
+.arbitration-virtual .base-18 {
+  height: 10px !important;
+  left: 189px !important;
+  position: absolute !important;
+  top: 1086px !important;
+}
+
+.arbitration-virtual .base-19 {
+  left: 189px !important;
+  position: absolute !important;
+  top: 968px !important;
+}
+
+.arbitration-virtual .base-20 {
+  left: 405px !important;
+  position: absolute !important;
+  top: 1191px !important;
+}
+
+.arbitration-virtual .base-21 {
+  left: 1067px !important;
+  position: absolute !important;
+  top: 1082px !important;
+}
+
+.arbitration-virtual .base-22 {
+  left: 628px !important;
+  position: absolute !important;
+  top: 1084px !important;
+}
+
+.arbitration-virtual .overlap-group {
+  height: 157px;
+  left: 405px;
+  position: absolute;
+  top: 1289px;
+  width: 335px;
+}
+
+.arbitration-virtual .base-wrapper {
+  height: 82px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 335px;
+}
+
+.arbitration-virtual .base-23 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  top: -1px;
+  width: 335px;
+}
+
+.arbitration-virtual .input-wrapper {
+  height: 82px;
+  left: 0;
+  position: absolute;
+  top: 75px;
+  width: 335px;
+}
+
+.arbitration-virtual .div-wrapper {
+  height: 82px;
+  opacity: 0.5;
+}
+
+.arbitration-virtual .text-wrapper-10 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 41px;
+}
+
+.arbitration-virtual .property-1-default {
+  left: 52px !important;
+  position: absolute !important;
+  top: 36px !important;
+}
+
+.arbitration-virtual .text-wrapper-11 {
+  color: #00000080;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 120px;
+}
+
+.arbitration-virtual .overlap-2 {
+  height: 157px;
+  left: 844px;
+  position: absolute;
+  top: 1289px;
+  width: 335px;
+}
+
+.arbitration-virtual .input-2 {
+  height: 82px;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 75px;
+  width: 335px;
+}
+
+.arbitration-virtual .text-wrapper-12 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 41px;
+}
+
+.arbitration-virtual .property-default-instance {
+  left: 55px !important;
+  position: absolute !important;
+  top: 38px !important;
+}
+
+.arbitration-virtual .more-horizontal {
+  height: 24px !important;
+  left: 780px !important;
+  position: absolute !important;
+  top: 1327px !important;
+  width: 24px !important;
+}
+
+.arbitration-virtual .more-horizontal-instance {
+  height: 24px !important;
+  left: 780px !important;
+  position: absolute !important;
+  top: 1403px !important;
+  width: 24px !important;
+}
+
+.arbitration-virtual .plus-instance {
+  height: 24px !important;
+  left: 381px !important;
+  position: absolute !important;
+  top: 1407px !important;
+  width: 24px !important;
+}
+
+.arbitration-virtual .image {
+  height: 66px;
+  left: 138px;
+  object-fit: cover;
+  position: absolute;
+  top: 2129px;
+  width: 290px;
+}
+
+.arbitration-virtual .input-3 {
+  height: 82px;
+  left: 844px;
+  position: absolute;
+  top: 1191px;
+  width: 335px;
+}
+
+.arbitration-virtual .email-2 {
+  background: transparent;
+  border: none;
+  color: var(--text-color);
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  padding: 0;
+  position: relative;
+  width: fit-content;
+}
+
+.arbitration-virtual .base-24 {
+  left: 618px !important;
+  position: absolute !important;
+  top: 1615px !important;
+}
+
+.arbitration-virtual .base-25 {
+  left: 1057px !important;
+  position: absolute !important;
+  top: 1615px !important;
+}
+
+.arbitration-virtual .base-26 {
+  height: 10px !important;
+  left: 179px !important;
+  position: absolute !important;
+  top: 1733px !important;
+}
+
+.arbitration-virtual .base-27 {
+  left: 179px !important;
+  position: absolute !important;
+  top: 1615px !important;
+}
+
+.arbitration-virtual .base-28 {
+  left: 395px !important;
+  position: absolute !important;
+  top: 1838px !important;
+}
+
+.arbitration-virtual .base-29 {
+  left: 1057px !important;
+  position: absolute !important;
+  top: 1729px !important;
+}
+
+.arbitration-virtual .base-30 {
+  left: 618px !important;
+  position: absolute !important;
+  top: 1731px !important;
+}
+
+.arbitration-virtual .overlap-3 {
+  height: 157px;
+  left: 395px;
+  position: absolute;
+  top: 1936px;
+  width: 335px;
+}
+
+.arbitration-virtual .overlap-4 {
+  height: 157px;
+  left: 834px;
+  position: absolute;
+  top: 1936px;
+  width: 335px;
+}
+
+.arbitration-virtual .icon-instance-node {
+  height: 24px !important;
+  left: 770px !important;
+  position: absolute !important;
+  top: 1974px !important;
+  width: 24px !important;
+}
+
+.arbitration-virtual .more-horizontal-2 {
+  height: 24px !important;
+  left: 770px !important;
+  position: absolute !important;
+  top: 2050px !important;
+  width: 24px !important;
+}
+
+.arbitration-virtual .plus-2 {
+  height: 24px !important;
+  left: 371px !important;
+  position: absolute !important;
+  top: 2054px !important;
+  width: 24px !important;
+}
+
+.arbitration-virtual .input-4 {
+  height: 82px;
+  left: 834px;
+  position: absolute;
+  top: 1838px;
+  width: 335px;
+}
+
+.arbitration-virtual .plus-3 {
+  height: 24px !important;
+  left: 367px !important;
+  position: absolute !important;
+  top: 821px !important;
+  width: 24px !important;
+}
+
+.arbitration-virtual .base-31 {
+  left: 391px !important;
+  position: absolute !important;
+  top: 602px !important;
+}
+
+.arbitration-virtual .overlap-5 {
+  height: 162px;
+  left: 391px;
+  position: absolute;
+  top: 700px;
+  width: 335px;
+}
+
+.arbitration-virtual .text-wrapper-13 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 44px;
+  white-space: nowrap;
+  width: 39px;
+}
+
+.arbitration-virtual .group-3 {
+  height: 82px;
+  left: 0;
+  position: absolute;
+  top: 80px;
+  width: 335px;
+}
+
+.arbitration-virtual .text-wrapper-14 {
+  color: #00000080;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 124px;
+}
+
+.arbitration-virtual .input-5 {
+  height: 82px;
+  left: 830px;
+  opacity: 0.5;
+  position: absolute;
+  top: 784px;
+  width: 335px;
+}
+
+.arbitration-virtual .overlap-6 {
+  height: 82px;
+  left: 830px;
+  position: absolute;
+  top: 700px;
+  width: 335px;
+}
+
+.arbitration-virtual .more-horizontal-3 {
+  height: 24px !important;
+  left: 766px !important;
+  position: absolute !important;
+  top: 738px !important;
+  width: 24px !important;
+}
+
+.arbitration-virtual .more-horizontal-4 {
+  height: 24px !important;
+  left: 766px !important;
+  position: absolute !important;
+  top: 821px !important;
+  width: 24px !important;
+}
+
+.arbitration-virtual .input-6 {
+  height: 82px;
+  left: 830px;
+  position: absolute;
+  top: 602px;
+  width: 335px;
+}
+
+.arbitration-virtual .overlap-group-wrapper {
+  height: 35px;
+  left: 370px;
+  position: absolute;
+  top: 326px;
+  width: 72px;
+}
+
+.arbitration-virtual .overlap-group-2 {
+  border-radius: 49px;
+  height: 35px;
+  position: relative;
+  width: 70px;
+}
+
+.arbitration-virtual .toggle {
+  background-color: #1cce00;
+  border-radius: 49px;
+  height: 35px;
+  left: 0;
+  opacity: 0.7;
+  position: absolute;
+  top: 0;
+  width: 70px;
+}
+
+.arbitration-virtual .bg {
+  background-color: #ffffff;
+  border-radius: 100px;
+  height: 27px;
+  left: 37px;
+  position: relative;
+  top: 4px;
+  width: 28px;
+}
+
+.arbitration-virtual .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-size: 13px;
+  font-weight: 300;
+  height: 16px;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.arbitration-virtual .group-4 {
+  height: 33px;
+  left: 120px;
+  position: absolute;
+  top: 2565px;
+  width: 184px;
+}
+
+.arbitration-virtual .icon-chevron-down-1 {
+  height: 16px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 9px !important;
+  width: 16px !important;
+}
+
+.arbitration-virtual .overlap-7 {
+  height: 1654px;
+  left: 84px;
+  position: absolute;
+  top: 2740px;
+  width: 1351px;
+}
+
+.arbitration-virtual .base-32 {
+  left: 89px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.arbitration-virtual .base-33 {
+  left: 489px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.arbitration-virtual .overlap-8 {
+  height: 1654px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1351px;
+}
+
+.arbitration-virtual .group-5 {
+  height: 1355px;
+  left: 89px;
+  position: absolute;
+  top: 104px;
+  width: 1057px;
+}
+
+.arbitration-virtual .base-34 {
+  height: 75px !important;
+  left: 806px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 251px !important;
+}
+
+.arbitration-virtual .base-35 {
+  margin-bottom: -9px !important;
+}
+
+.arbitration-virtual .base-36 {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 251px !important;
+}
+
+.arbitration-virtual .base-37 {
+  height: 75px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 211px !important;
+}
+
+.arbitration-virtual .base-38 {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 211px !important;
+}
+
+.arbitration-virtual .frame-4 {
+  height: 59px;
+  left: 35px;
+  position: absolute;
+  top: 144px;
+  width: 278px;
+}
+
+.arbitration-virtual .form-field-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--grey-aa-large);
+  border-radius: 4px;
+  height: 59px;
+  left: 383px;
+  position: relative;
+  top: -122px;
+  width: 230px;
+}
+
+.arbitration-virtual .icon-inside-21 {
+  height: 16px !important;
+  left: 202px !important;
+  position: absolute !important;
+  top: 22px !important;
+  width: 16px !important;
+}
+
+.arbitration-virtual .group-6 {
+  height: 747px;
+  left: 900px;
+  position: absolute;
+  top: 0;
+  width: 267px;
+}
+
+.arbitration-virtual .base-39 {
+  height: 93px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 206px;
+}
+
+.arbitration-virtual .base-40 {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 206px !important;
+}
+
+.arbitration-virtual .calendar-instance {
+  height: 44px !important;
+  left: 21px !important;
+  position: absolute !important;
+  top: 31px !important;
+  width: 44px !important;
+}
+
+.arbitration-virtual .line {
+  height: 1px;
+  left: 87px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 56px;
+}
+
+.arbitration-virtual .group-7 {
+  height: 163px;
+  left: 64px;
+  position: absolute;
+  top: 215px;
+  width: 699px;
+}
+
+.arbitration-virtual .overlap-9 {
+  height: 81px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 292px;
+}
+
+.arbitration-virtual .input-7 {
+  height: 81px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 292px;
+}
+
+.arbitration-virtual .base-41 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  top: -2px;
+  width: 292px;
+}
+
+.arbitration-virtual .text-wrapper-16 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 42px;
+}
+
+.arbitration-virtual .property-1-default-instance {
+  left: 98px !important;
+  position: absolute !important;
+  top: 37px !important;
+}
+
+.arbitration-virtual .overlap-10 {
+  height: 162px;
+  left: 414px;
+  position: absolute;
+  top: 1px;
+  width: 279px;
+}
+
+.arbitration-virtual .input-8 {
+  height: 81px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 277px;
+}
+
+.arbitration-virtual .base-42 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  top: -2px;
+  width: 277px;
+}
+
+.arbitration-virtual .cursor-2 {
+  left: 61px !important;
+  position: absolute !important;
+  top: 34px !important;
+}
+
+.arbitration-virtual .input-9 {
+  height: 84px;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 78px;
+  width: 279px;
+}
+
+.arbitration-virtual .base-43 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  width: 279px;
+}
+
+.arbitration-virtual .more-horizontal-5 {
+  height: 24px !important;
+  left: 354px !important;
+  position: absolute !important;
+  top: 38px !important;
+  width: 24px !important;
+}
+
+.arbitration-virtual .overlap-11 {
+  height: 82px;
+  left: 24px;
+  position: absolute;
+  top: 81px;
+  width: 292px;
+}
+
+.arbitration-virtual .group-8 {
+  height: 82px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 292px;
+}
+
+.arbitration-virtual .base-44 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  top: -1px;
+  width: 292px;
+}
+
+.arbitration-virtual .text-wrapper-17 {
+  color: #00000080;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 46px;
+}
+
+.arbitration-virtual .more-horizontal-6 {
+  height: 24px !important;
+  left: 354px !important;
+  position: absolute !important;
+  top: 117px !important;
+  width: 24px !important;
+}
+
+.arbitration-virtual .plus-4 {
+  height: 24px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 124px !important;
+  width: 24px !important;
+}
+
+.arbitration-virtual .text-wrapper-18 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 86px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 423px;
+  width: 130px;
+}
+
+.arbitration-virtual .mark-question {
+  height: 31px !important;
+  left: 474px !important;
+  position: absolute !important;
+  top: 138px !important;
+  width: 32px !important;
+}
+
+.arbitration-virtual .overlap-wrapper {
+  height: 35px;
+  left: 261px;
+  position: absolute;
+  top: 418px;
+  width: 72px;
+}
+
+.arbitration-virtual .group-9 {
+  height: 35px;
+  left: 455px;
+  position: absolute;
+  top: 831px;
+  width: 72px;
+}
+
+.arbitration-virtual .group-10 {
+  height: 35px;
+  left: 455px;
+  position: absolute;
+  top: 1121px;
+  width: 72px;
+}
+
+.arbitration-virtual .group-11 {
+  height: 35px;
+  left: 711px;
+  position: absolute;
+  top: 1250px;
+  width: 72px;
+}
+
+.arbitration-virtual .group-12 {
+  height: 163px;
+  left: 64px;
+  position: absolute;
+  top: 551px;
+  width: 699px;
+}
+
+.arbitration-virtual .cursor-3 {
+  left: 110px !important;
+  position: absolute !important;
+  top: 37px !important;
+}
+
+.arbitration-virtual .cursor-4 {
+  left: 53px !important;
+  position: absolute !important;
+  top: 35px !important;
+}
+
+.arbitration-virtual .group-13 {
+  height: 82px;
+  left: 88px;
+  position: absolute;
+  top: 451px;
+  width: 292px;
+}
+
+.arbitration-virtual .input-10 {
+  height: 84px;
+  left: 478px;
+  opacity: 0.5;
+  position: absolute;
+  top: 449px;
+  width: 279px;
+}
+
+.arbitration-virtual .more-horizontal-7 {
+  height: 24px !important;
+  left: 418px !important;
+  position: absolute !important;
+  top: 487px !important;
+  width: 24px !important;
+}
+
+.arbitration-virtual .text-wrapper-19 {
+  color: #00000080;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 99px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 496px;
+}
+
+.arbitration-virtual .text-wrapper-20 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 90px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 840px;
+  width: 322px;
+}
+
+.arbitration-virtual .text-wrapper-21 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 90px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1122px;
+  width: 266px;
+}
+
+.arbitration-virtual .text-wrapper-22 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 554px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1218px;
+  width: 307px;
+}
+
+.arbitration-virtual .mark-question-15 {
+  height: 31px !important;
+  left: 480px !important;
+  position: absolute !important;
+  top: 1038px !important;
+  width: 32px !important;
+}
+
+.arbitration-virtual .base-45 {
+  height: 80px !important;
+  left: 90px !important;
+  position: absolute !important;
+  top: 1001px !important;
+  width: 222px !important;
+}
+
+.arbitration-virtual .base-46 {
+  margin-bottom: -4px !important;
+}
+
+.arbitration-virtual .base-47 {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 222px !important;
+}
+
+.arbitration-virtual .icon-inside-15 {
+  height: 16px !important;
+  left: 194px !important;
+  position: absolute !important;
+  top: 22px !important;
+  width: 16px !important;
+}
+
+.arbitration-virtual .input-11 {
+  height: 82px;
+  left: 90px;
+  position: absolute;
+  top: 889px;
+  width: 334px;
+}
+
+.arbitration-virtual .base-48 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  top: -1px;
+  width: 334px;
+}
+
+.arbitration-virtual .input-12 {
+  height: 82px;
+  left: 520px;
+  position: absolute;
+  top: 1001px;
+  width: 224px;
+}
+
+.arbitration-virtual .base-49 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  top: -1px;
+  width: 224px;
+}
+
+.arbitration-virtual .group-14 {
+  height: 33px;
+  left: 53px;
+  position: absolute;
+  top: 756px;
+  width: 197px;
+}
+
+.arbitration-virtual .text-wrapper-23 {
+  color: #00000080;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 102px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 933px;
+}
+
+.arbitration-virtual .input-13 {
+  height: 69px;
+  left: 90px;
+  position: absolute;
+  top: 1233px;
+  width: 335px;
+}
+
+.arbitration-virtual .base-50 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  top: -26px;
+  width: 335px;
+}
+
+.arbitration-virtual .icon-inside-2 {
+  height: 16px !important;
+  left: 719px !important;
+  position: absolute !important;
+  top: 1044px !important;
+  width: 16px !important;
+}
+
+.arbitration-virtual .group-15 {
+  height: 280px;
+  left: 0;
+  position: absolute;
+  top: 1374px;
+  width: 1351px;
+}
+
+.arbitration-virtual .overlap-12 {
+  height: 280px;
+  position: relative;
+}
+
+.arbitration-virtual .desktop {
+  background-color: #ffffff;
+  height: 128px;
+  left: 0;
+  position: absolute;
+  top: 152px;
+  width: 1351px;
+}
+
+.arbitration-virtual .text-wrapper-24 {
+  color: #111111;
+  font-family: "Open Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 300;
+  left: 417px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+}
+
+.arbitration-virtual .text-wrapper-25 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 300;
+  left: 793px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+}
+
+.arbitration-virtual .text-wrapper-26 {
+  color: #3078a0;
+  font-family: "Open Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 300;
+  left: 1079px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+}
+
+.arbitration-virtual .text-wrapper-27 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 300;
+  left: 69px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+}
+
+.arbitration-virtual .frame-5 {
+  background-color: #ffffff;
+  height: 171px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1351px;
+}
+
+.arbitration-virtual .overlap-group-3 {
+  height: 111px;
+  left: 104px;
+  position: relative;
+  top: 30px;
+  width: 1137px;
+}
+
+.arbitration-virtual .ellipse {
+  background-color: #dfdfdf;
+  border: 3px solid;
+  border-color: #000000;
+  border-radius: 55.5px;
+  height: 111px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 111px;
+}
+
+.arbitration-virtual .ellipse-2 {
+  background-color: #dfdfdf;
+  border: 3px solid;
+  border-color: #111111;
+  border-radius: 55.5px;
+  height: 111px;
+  left: 352px;
+  position: absolute;
+  top: 0;
+  width: 111px;
+}
+
+.arbitration-virtual .ellipse-3 {
+  background-color: #dfdfdf;
+  border: 3px solid;
+  border-color: #000000;
+  border-radius: 55.5px;
+  height: 111px;
+  left: 674px;
+  position: absolute;
+  top: 0;
+  width: 111px;
+}
+
+.arbitration-virtual .ellipse-4 {
+  background-color: #ffffff;
+  border: 3px solid;
+  border-color: #3078a0;
+  border-radius: 55.5px;
+  height: 111px;
+  left: 1026px;
+  position: absolute;
+  top: 0;
+  width: 111px;
+}
+
+.arbitration-virtual .img {
+  height: 3px;
+  left: 108px;
+  position: absolute;
+  top: 53px;
+  width: 247px;
+}
+
+.arbitration-virtual .line-2 {
+  height: 3px;
+  left: 460px;
+  position: absolute;
+  top: 53px;
+  width: 217px;
+}
+
+.arbitration-virtual .line-3 {
+  height: 3px;
+  left: 782px;
+  position: absolute;
+  top: 53px;
+  width: 247px;
+}
+
+.arbitration-virtual .text-wrapper-28 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 48px;
+  font-weight: 300;
+  height: 75px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  width: 80px;
+}
+
+.arbitration-virtual .text-wrapper-29 {
+  color: #111111;
+  font-family: "Open Sans", Helvetica;
+  font-size: 48px;
+  font-weight: 300;
+  height: 75px;
+  left: 367px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  width: 80px;
+}
+
+.arbitration-virtual .text-wrapper-30 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 48px;
+  font-weight: 300;
+  height: 75px;
+  left: 689px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  width: 80px;
+}
+
+.arbitration-virtual .text-wrapper-31 {
+  color: #3078a0;
+  font-family: "Open Sans", Helvetica;
+  font-size: 48px;
+  font-weight: 300;
+  height: 75px;
+  left: 1042px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  width: 80px;
+}
+
+.arbitration-virtual .frame-6 {
+  align-items: center;
+  display: inline-flex;
+  gap: 2px;
+  left: 104px;
+  position: absolute;
+  top: 1283px;
+}
+
+.arbitration-virtual .icon-inside-14-instance {
+  height: 16px !important;
+  left: 1070px !important;
+  position: absolute !important;
+  top: 47px !important;
+  width: 16px !important;
+}
+
+.arbitration-virtual .mark-question-instance {
+  height: 31px !important;
+  left: 54px !important;
+  position: absolute !important;
+  top: 134px !important;
+  width: 32px !important;
+}
+
+.arbitration-virtual .mark-question-15-instance {
+  height: 31px !important;
+  left: 49px !important;
+  position: absolute !important;
+  top: 914px !important;
+  width: 32px !important;
+}
+
+.arbitration-virtual .mark-question-2 {
+  height: 31px !important;
+  left: 48px !important;
+  position: absolute !important;
+  top: 1219px !important;
+  width: 32px !important;
+}
+
+.arbitration-virtual .mark-question-3 {
+  height: 31px !important;
+  left: 49px !important;
+  position: absolute !important;
+  top: 1124px !important;
+  width: 32px !important;
+}
+
+.arbitration-virtual .mark-question-4 {
+  height: 31px !important;
+  left: 51px !important;
+  position: absolute !important;
+  top: 1037px !important;
+  width: 32px !important;
+}
+
+.arbitration-virtual .mark-question-5 {
+  height: 31px !important;
+  left: 48px !important;
+  position: absolute !important;
+  top: 835px !important;
+  width: 32px !important;
+}
+
+.arbitration-virtual .overlap-13 {
+  height: 84px;
+  left: 173px;
+  position: absolute;
+  top: 2626px;
+  width: 335px;
+}
+
+.arbitration-virtual .base-51 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.arbitration-virtual .text-wrapper-32 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+}
+
+.arbitration-virtual .upload-instance {
+  height: 24px !important;
+  left: 121px !important;
+  position: absolute !important;
+  top: 31px !important;
+  width: 24px !important;
+}
+
+.arbitration-virtual .group-16 {
+  height: 33px;
+  left: 117px;
+  position: absolute;
+  top: 4413px;
+  width: 213px;
+}
+
+.arbitration-virtual .group-17 {
+  height: 35px;
+  left: 509px;
+  position: absolute;
+  top: 4486px;
+  width: 72px;
+}
+
+.arbitration-virtual .text-wrapper-33 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 182px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4583px;
+  width: 219px;
+}
+
+.arbitration-virtual .group-18 {
+  height: 35px;
+  left: 509px;
+  position: absolute;
+  top: 4584px;
+  width: 72px;
+}
+
+.arbitration-virtual .overlap-14 {
+  height: 82px;
+  left: 180px;
+  position: absolute;
+  top: 4682px;
+  width: 335px;
+}
+
+.arbitration-virtual .base-52 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  top: -10px;
+  width: 335px;
+}
+
+.arbitration-virtual .text-wrapper-34 {
+  color: #00000080;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 51px;
+}
+
+.arbitration-virtual .text-wrapper-35 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  height: 35px;
+  left: 182px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4805px;
+  width: 219px;
+}
+
+.arbitration-virtual .group-19 {
+  height: 35px;
+  left: 504px;
+  position: absolute;
+  top: 4806px;
+  width: 72px;
+}
+
+.arbitration-virtual .group-20 {
+  height: 35px;
+  left: 502px;
+  position: absolute;
+  top: 5001px;
+  width: 72px;
+}
+
+.arbitration-virtual .group-21 {
+  height: 35px;
+  left: 405px;
+  position: absolute;
+  top: 5544px;
+  width: 72px;
+}
+
+.arbitration-virtual .group-22 {
+  height: 35px;
+  left: 410px;
+  position: absolute;
+  top: 5753px;
+  width: 72px;
+}
+
+.arbitration-virtual .group-23 {
+  height: 35px;
+  left: 408px;
+  position: absolute;
+  top: 5828px;
+  width: 72px;
+}
+
+.arbitration-virtual .base-53 {
+  left: 181px !important;
+  position: absolute !important;
+  top: 4878px !important;
+}
+
+.arbitration-virtual .base-54 {
+  top: 18px !important;
+}
+
+.arbitration-virtual .mark-question-6 {
+  height: 31px !important;
+  left: 143px !important;
+  position: absolute !important;
+  top: 4913px !important;
+  width: 32px !important;
+}
+
+.arbitration-virtual .mark-question-7 {
+  height: 31px !important;
+  left: 143px !important;
+  position: absolute !important;
+  top: 4726px !important;
+  width: 32px !important;
+}
+
+.arbitration-virtual .text-wrapper-36 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  height: 35px;
+  left: 182px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5000px;
+  width: 219px;
+}
+
+.arbitration-virtual .mark-question-8 {
+  height: 31px !important;
+  left: 143px !important;
+  position: absolute !important;
+  top: 5001px !important;
+  width: 32px !important;
+}
+
+.arbitration-virtual .mark-question-9 {
+  height: 31px !important;
+  left: 147px !important;
+  position: absolute !important;
+  top: 5240px !important;
+  width: 32px !important;
+}
+
+.arbitration-virtual .mark-question-10 {
+  height: 31px !important;
+  left: 147px !important;
+  position: absolute !important;
+  top: 5354px !important;
+  width: 32px !important;
+}
+
+.arbitration-virtual .mark-question-11 {
+  height: 31px !important;
+  left: 140px !important;
+  position: absolute !important;
+  top: 5668px !important;
+  width: 32px !important;
+}
+
+.arbitration-virtual .mark-question-12 {
+  height: 31px !important;
+  left: 140px !important;
+  position: absolute !important;
+  top: 5753px !important;
+  width: 32px !important;
+}
+
+.arbitration-virtual .overlap-15 {
+  height: 82px;
+  left: 181px;
+  position: absolute;
+  top: 5070px;
+  width: 335px;
+}
+
+.arbitration-virtual .frame-7 {
+  align-items: center;
+  display: inline-flex;
+  gap: 2px;
+  left: 20px;
+  position: absolute;
+  top: 49px;
+}
+
+.arbitration-virtual .base-55 {
+  left: 182px !important;
+  position: absolute !important;
+  top: 5203px !important;
+}
+
+.arbitration-virtual .overlap-16 {
+  height: 84px;
+  left: 182px;
+  position: absolute;
+  top: 5319px;
+  width: 335px;
+}
+
+.arbitration-virtual .frame-8 {
+  align-items: center;
+  display: inline-flex;
+  gap: 2px;
+  left: 12px;
+  position: absolute;
+  top: 42px;
+}
+
+.arbitration-virtual .input-text-3 {
+  color: var(--text-color);
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.arbitration-virtual .overlap-17 {
+  height: 82px;
+  left: 185px;
+  position: absolute;
+  top: 5617px;
+  width: 335px;
+}
+
+.arbitration-virtual .frame-9 {
+  align-items: center;
+  display: inline-flex;
+  gap: 2px;
+  left: 9px;
+  position: absolute;
+  top: 48px;
+}
+
+.arbitration-virtual .group-24 {
+  height: 249px;
+  left: 124px;
+  position: absolute;
+  top: 0;
+  width: 1324px;
+}
+
+.arbitration-virtual .overlap-18 {
+  height: 249px;
+  position: relative;
+}
+
+.arbitration-virtual .desktop-2 {
+  background-color: #ffffff;
+  height: 115px;
+  left: 0;
+  position: absolute;
+  top: 134px;
+  width: 1324px;
+}
+
+.arbitration-virtual .text-wrapper-37 {
+  color: #3078a0;
+  font-family: "Open Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 300;
+  left: 417px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+}
+
+.arbitration-virtual .text-wrapper-38 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 300;
+  left: 1079px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+}
+
+.arbitration-virtual .frame-10 {
+  background-color: #ffffff;
+  height: 152px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1311px;
+}
+
+.arbitration-virtual .ellipse-5 {
+  background-color: #ffffff;
+  border: 3px solid;
+  border-color: #3078a0;
+  border-radius: 55.5px;
+  height: 111px;
+  left: 352px;
+  position: absolute;
+  top: 0;
+  width: 111px;
+}
+
+.arbitration-virtual .ellipse-6 {
+  background-color: #dfdfdf;
+  border: 3px solid;
+  border-color: #000000;
+  border-radius: 55.5px;
+  height: 111px;
+  left: 1026px;
+  position: absolute;
+  top: 0;
+  width: 111px;
+}
+
+.arbitration-virtual .text-wrapper-39 {
+  color: #3078a0;
+  font-family: "Open Sans", Helvetica;
+  font-size: 48px;
+  font-weight: 300;
+  height: 75px;
+  left: 367px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  width: 80px;
+}
+
+.arbitration-virtual .text-wrapper-40 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 48px;
+  font-weight: 300;
+  height: 75px;
+  left: 1042px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  width: 80px;
+}
+
+.arbitration-virtual .group-25 {
+  height: 43px;
+  left: 142px;
+  opacity: 0.6;
+  position: absolute;
+  top: 1527px;
+  width: 290px;
+}
+
+.arbitration-virtual .overlap-19 {
+  background-image: url(../../../static/img/rectangle-1.svg);
+  background-size: 100% 100%;
+  height: 49px;
+  left: -4px;
+  position: relative;
+  top: -2px;
+  width: 296px;
+}
+
+.arbitration-virtual .x-instance {
+  height: 26px !important;
+  left: 47px !important;
+  position: absolute !important;
+  top: 11px !important;
+  width: 34px !important;
+}
+
+.arbitration-virtual .text-wrapper-41 {
+  color: #3078a0;
+  font-family: "Open Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 300;
+  height: 43px;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  width: 228px;
+}
+
+.arbitration-virtual .group-26 {
+  height: 280px;
+  left: 113px;
+  position: absolute;
+  top: 2257px;
+  width: 1351px;
+}
+
+.arbitration-virtual .text-wrapper-42 {
+  color: #3078a0;
+  font-family: "Open Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 300;
+  left: 793px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+}
+
+.arbitration-virtual .ellipse-7 {
+  background-color: #ffffff;
+  border: 3px solid;
+  border-color: #3078a0;
+  border-radius: 55.5px;
+  height: 111px;
+  left: 674px;
+  position: absolute;
+  top: 0;
+  width: 111px;
+}
+
+.arbitration-virtual .text-wrapper-43 {
+  color: #3078a0;
+  font-family: "Open Sans", Helvetica;
+  font-size: 48px;
+  font-weight: 300;
+  height: 75px;
+  left: 689px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  width: 80px;
+}

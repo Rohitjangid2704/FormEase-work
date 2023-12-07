@@ -1,0 +1,14 @@
+:root {
+  --active: rgba(84, 63, 211, 1);
+  --error-red: rgba(238, 0, 4, 1);
+  --grey-aa: rgba(118, 118, 118, 1);
+  --grey-aa-large: rgba(148, 148, 148, 1);
+  --grey-aaa: rgba(89, 89, 89, 1);
+  --primary-caption-13-font-family: "Gilroy-Medium", Helvetica;
+  --primary-caption-13-font-size: 13px;
+  --primary-caption-13-font-style: normal;
+  --primary-caption-13-font-weight: 500;
+  --primary-caption-13-letter-spacing: 0px;
+  --primary-caption-13-line-height: 16px;
+  --text-color: rgba(26, 26, 26, 1);
+}
